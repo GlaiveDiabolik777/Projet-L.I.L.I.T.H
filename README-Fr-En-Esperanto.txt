@@ -1,5 +1,3 @@
-C'est le geste final pour que ton dossier soit vraiment "pro". Imagine la personne qui télécharge ton dossier : elle voit deux fichiers, un script au nom intrigant et un guide pour la rassurer.
-Voici le contenu du README.txt parfait, conçu pour être lu directement sur un écran d'ordinateur.
 # ⚔️ PROJECT: GLAIVE DE PAIX / GLAIVE OF PEACE / GLAVO DE PACO ⚔️
 ### 🇫🇷 FRANÇAIS
 **Bienvenue !** Vous avez entre les mains un outil de libération numérique.
