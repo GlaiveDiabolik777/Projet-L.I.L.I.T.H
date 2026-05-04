@@ -8,7 +8,7 @@
 ## 🧐 C'est quoi ?
 Le Projet L.I.L.I.T.H. est un outil gratuit conçu pour nettoyer Windows de tout ce qui le ralentit inutilement : mouchards, publicités cachées et services qui tournent dans le vide. 
 
-## ✅ Pourquoi l'utiliser ? (Le coin de Madame Michu)
+## ✅ Pourquoi l'utiliser ?
 * 🚀 **Plus rapide :** Libère de la puissance pour vos jeux et vos logiciels.
 * 🤫 **Plus discret :** Coupe les connexions qui envoient vos données à Microsoft.
 * 🛡️ **Sûr et Transparent :** Ce n'est pas un virus. C'est un simple script (fichier .bat) que vous pouvez lire vous-même.
